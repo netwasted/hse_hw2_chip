@@ -20,6 +20,8 @@ HTML-выдачу FastQC см. в папке fastqc_reports.
 
 ![image](https://user-images.githubusercontent.com/60008375/155873376-9c149020-5209-43e0-b3c0-6ae16ee4885d.png)
 
+![image](https://user-images.githubusercontent.com/60008375/155874028-b031f905-5882-41f0-8aa4-c08b2726905d.png)
+
 ![image](https://user-images.githubusercontent.com/60008375/155873383-39d34875-8c89-463f-98a4-e2478ade15d6.png)
 
 GC состав не идеальный, но близок к нормальному.
