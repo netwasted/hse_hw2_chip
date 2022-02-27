@@ -79,3 +79,21 @@ GC-состав не так уж плох.
 |ENCFF002AWQ|26266396|869807 \(3.31%)|2863221 \(10.90%)|22533368 \(85.79%)|
 |ENCFF002AXX|39519518|1168689 \(2.96%)|3854902 \(9.75%)|34495927 \(87.29%)|
 |ENCFF775ENL|13167681|490504 \(3.73%)|1833593 \(13.92%)|10843584 \(82.35%)|
+
+## Диаграммы Эйлера-Венна
+
+### Пересечение пиков 1 реплики с пиками ENCODE
+
+![Intervene_venn_page-0001](https://user-images.githubusercontent.com/60008375/155892834-4c6d3f35-7341-4c7e-ac39-5a139c507731.jpg)
+
+### Пересечение пиков ENCODE с пиками 1 реплики
+
+![Intervene_venn (1)_page-0001](https://user-images.githubusercontent.com/60008375/155892838-c469b3bd-8f00-452e-a1b2-296fd119493c.jpg)
+
+### Пересечение пиков 2 реплики с пиками ENCODE
+
+![Intervene_venn (2)_page-0001](https://user-images.githubusercontent.com/60008375/155892845-b41c28fc-f13a-4561-aa74-194b26e56805.jpg)
+
+### Пересечение пиков ENCODE с пиками 2 реплики
+
+![Intervene_venn (3)_page-0001](https://user-images.githubusercontent.com/60008375/155892847-c65193cf-733f-4bc5-a339-ed1bdac8081e.jpg)
